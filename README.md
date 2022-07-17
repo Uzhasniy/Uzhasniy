@@ -2,13 +2,18 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python Junior developer | 21 y.o. | from Krasnodar (Russia) </h3>
 
+<h2>Education</h2>
 <h3>Graduated from 9th grade school
 I have secondary-special education: <br>"Programming in computer systems " , 
 but they didn 't teach anything there ,<br> so I started self - education 😅</h3>
+
+<h2>In leisure time</h2>
+<h3>In my free time I like to play computer and board games with my girlfriend, <br>watch videos on YouTube and Tiktok, and of course program in Python 🐍</h3>
+
+<h2>Href`s<h2>
 <h3>
-In my free time I like to play computer and board games with my girlfriend, <br>watch videos on YouTube and Tiktok, and of course program in Python 🐍</h3>
-
-
+* [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/uzh4sniy) 
+</h3>
 <!---
 Uzhasniy/Uzhasniy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
