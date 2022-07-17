@@ -12,7 +12,7 @@ but they didn 't teach anything there ,<br> so I started self - education 😅</
 
 <h2>Href`s<h2>
 <h3>
-* [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/uzh4sniy) 
+* <a href="https://t.me/uzh4sniy">Telegram</a>
 </h3>
 <!---
 Uzhasniy/Uzhasniy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
