@@ -13,6 +13,7 @@ but they didn 't teach anything there ,<br> so I started self - education 😅</
 <h2>Href`s</h2>
 <h3>* <a href="https://t.me/uzh4sniy">Telegram</a><br>
 * <a href="remaker1503@gmail.com">Email</a><br>
+* <a href="https://www.linkedin.com/in/andreygerasimovuzhs/">LinkedIn</a><br>
 * <a href="https://steamcommunity.com/profiles/76561198139147931">Steam</a><br>
 * <a href="https://www.codewars.com/users/Uzhasniy">Codewars</a><br>
 * <a href="https://music.yandex.ru/users/remaker1503/playlists">Yandex music</a><br></h3>
