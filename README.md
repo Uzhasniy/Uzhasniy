@@ -7,7 +7,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/uzh4sniy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreygerasimovuzhs/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:remaker1503@gmail.com)
-[![Website](https://img.shields.io/badge/Website-daniilshat.ru-black?style=flat-square&logo=safari&logoColor=white)](https://daniilshat.ru/)
 
 </div>
 
@@ -63,6 +62,7 @@ I use Python, PHP, and the REST API in development.
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uzhasniy&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzhasniy)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzhasniy&layout=compact&theme=github_dark&hide_border=true)
 
