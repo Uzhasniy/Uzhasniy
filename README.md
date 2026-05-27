@@ -55,18 +55,6 @@ I use Python, PHP, and the REST API in development.
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-0252a8?style=flat-square&logo=Pandas&logoColor=white)
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uzhasniy&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzhasniy)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzhasniy&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 
