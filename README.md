@@ -1,33 +1,77 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Andrey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python Junior developer | 21 y.o. | from Krasnodar (Russia) </h3>
+<div align="center">
 
-<h2>Education</h2>
-<h3>Graduated from 9th grade school
-I have secondary-special education: <br>"Programming in computer systems " , 
-but they didn 't teach anything there ,<br> so I started self - education 😅</h3>
+# Andrey Gerasimov
 
-<h2>In leisure time</h2>
-<h3>In my free time I like to play computer and board games with my girlfriend, <br>watch videos on YouTube and Tiktok, and of course program in Python 🐍</h3>
+**Python Backend Developer**
 
-<h2>Technologies</h2>
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/uzh4sniy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreygerasimovuzhs/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:remaker1503@gmail.com)
+[![Website](https://img.shields.io/badge/Website-daniilshat.ru-black?style=flat-square&logo=safari&logoColor=white)](https://daniilshat.ru/)
 
-<h2>Href`s (clickable)</h2>
-<a href="https://t.me/uzh4sniy" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-<a href="remaker1503@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/andreygerasimovuzhs/" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</div>
+
+---
+
+## About
+
+A self-taught developer specializing in developing integrations for CRM. 
+I use Python, PHP, and the REST API in development.
+
+- 🐍 I mainly write web applications, scripts and bots for CRM **Bitrix24** in **Python** and **PHP**.
+- 🔧 I am currently deepening my knowledge in the field of **AI** and **ML** in Python.
+- 📍 Russia, Krasnodar
+
+---
+
+## Tech Stack
+
+**CRM**
+
+![Bitrix24](https://img.shields.io/badge/Bitrix24-2e7bff?style=flat-square&logo=bricks&logoColor=white)
+![AmoCRM](https://img.shields.io/badge/AmoCRM-00b7ff?style=flat-square&logo=alamy&logoColor=white)
+
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-00b7ff?style=flat-square&logo=php&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-f27d00?style=flat-square&logo=Flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-26873e?style=flat-square&logo=FastAPI&logoColor=white)
+
+
+**Databases & Infra**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/PostgreSQL-73777d?style=flat-square&logo=SQLite&logoColor=white)
+![MySQL](https://img.shields.io/badge/PostgreSQL-264a87?style=flat-square&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+
+**Tools**
+
+![RestAPI](https://img.shields.io/badge/RestAPI-91000a?style=flat-square&logo=pipecat&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0252a8?style=flat-square&logo=Pandas&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uzhasniy&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzhasniy&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to interesting projects and job opportunities*
+
+</div>
